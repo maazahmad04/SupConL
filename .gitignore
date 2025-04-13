@@ -1,0 +1,17 @@
+# Ignore datasets folder
+datasets/
+
+# Ignore networks folder
+networks/
+
+# Ignore cifar10_models folder
+cifar10_models_copy/
+
+# Ignore all __pycache__ folders
+__pycache__/
+
+# Ignore compiled Python files like .pyc, .pyo, .pyd
+*.py[cod]
+
+# Ignore all .log files
+*.log
